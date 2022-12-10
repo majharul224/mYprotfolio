@@ -7,7 +7,8 @@ const Contacts = () => {
           <div className="text-center">
             <h1 className="text-5xl font-bold">Contacts me!</h1>
           </div>
-          <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl bg-base-100">
+       <form action="https://formsubmit.co/mmajharul400@gmail.com" method="POST">
+       <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl bg-base-100">
             <div className="card-body">
               <div className="form-control">
                 <label className="label">
@@ -20,13 +21,14 @@ const Contacts = () => {
                   <span className="label-text">Email</span>
                 </label>
                 <input type="email" placeholder="Your Email" className="input input-bordered" required />
-               
+                <textarea className='border mt-3'></textarea>
               </div>
               <div className="form-control mt-6">
                 <button className="btn btn-primary">Submit</button>
               </div>
             </div>
           </div>
+       </form>
         </div>
       </div>
     );
