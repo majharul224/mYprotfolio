@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "name": "Best player selected",
+      "img1": "https://i.ibb.co/RBp4d9y/ima1-1.png",
+      "img2": "https://i.ibb.co/RBp4d9y/ima1-2.png",
+      "img3": "https://i.ibb.co/RBp4d9y/ima1-3.png",
+      "details":"This project is made using JavaScript only.Clicking the button will add the player list on the side, each player can be selected once, and maximum 5 players can be selected.There are input fields for each player's value, manager and coach's costs, all of which have calculators used to calculate income expenditure.",
+      "live":"https://astounding-kashata-bea04e.netlify.app/"
+    },
+    {
+      "id": 2,
+      "name": "Web learning",
+      "img1": "https://i.ibb.co/BKGcTh5/img2-1.png",
+      "img2": "https://i.ibb.co/RzmDjrL/img2-2.png",
+      "img3": "https://i.ibb.co/pQzkFG0/img2-3.png",
+      "details":" I used React Router DOM. I used react form in login firebase system, React Twist .I have created the data on the server side",
+      "live":"https://verdant-selkie-beef40.netlify.app/"
+    },
+    {
+      "id": 3,
+      "name": "sport photograper",
+      "img1": "https://i.ibb.co/7YTbDBr/img3-1.png",
+      "img2": "https://i.ibb.co/94nkZxt/img3-2.png",
+      "img3": "https://i.ibb.co/j6vks7b/img3-3.png",
+      "details":"I have used Tailwind, Mamba UI. I created a page called 404. I have created a private route",
+      "live":"https://my-webapps-ab2ed.web.app/"
+    }
+    
+   
+    
+  
+    
+  ]
+  
